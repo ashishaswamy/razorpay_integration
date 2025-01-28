@@ -1,5 +1,5 @@
-user register url : http://localhost/razorpay-integration/register
-admin login url : http://localhost/razorpay-integration/admin/index
+user register url : http://localhost/razorpay_integration/register
+admin login url : http://localhost/razorpay_integration/admin/index
 admin login credentials 
 username : admin@gmail.com
 password : password
