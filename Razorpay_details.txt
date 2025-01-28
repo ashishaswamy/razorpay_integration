@@ -1,0 +1,9 @@
+user register url : http://localhost/razorpay-integration/register
+admin login url : http://localhost/razorpay-integration/admin/index
+admin login credentials 
+username : admin@gmail.com
+password : password
+test card number : 4111 1111 1111 1111
+card expiry : 12/26
+card cvv : 123
+card otp : 123456
